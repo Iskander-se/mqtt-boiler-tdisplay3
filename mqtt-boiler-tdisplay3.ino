@@ -4,7 +4,7 @@
 #include <OneWire.h>
 #include <DallasTemperature.h>
 #include <ArduinoOTA.h>
-#include "Config.h"
+#include "config.h"
 #include "Images.h"
 
 #define TFT_BL 4
